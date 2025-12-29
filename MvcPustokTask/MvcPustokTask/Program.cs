@@ -1,4 +1,6 @@
-namespace WebApplication1
+using Microsoft.EntityFrameworkCore;
+
+namespace MvcPustokTask
 {
     public class Program
     {
@@ -6,12 +8,28 @@ namespace WebApplication1
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
-            var app = builder.Build();
-            app.UseStaticFiles();
-            app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=home}/{action=index}"
+
+            builder.Services.AddDbContext<DAL.AppDbContext>
+            (
+                options =>
+                {
+                    options.UseSqlServer("Server=localhost;Database=APA201PustrokDb;Trusted_Connection=true;Encrypt=false");
+                }
             );
+
+
+
+            var app = builder.Build();
+
+
+
+            app.UseStaticFiles();
+            app.MapControllerRoute
+            (
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}"
+            );
+
 
             app.Run();
         }

@@ -1,58 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\",
+  "WorkspaceRootPath": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustoktask\\mvcpustoktask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\migrations\\20251224121611_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\migrations\\20251224121611_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\models\\arrials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\models\\arrials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\models\\featureproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\models\\featureproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|c:\\users\\amin\\desktop\\mvcpustok\\mvcpustoktask\\mvcpustoktask\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C222BD2-FA5C-4300-9BA2-8C86AAD6095F}|MvcPustokTask\\MvcPustokTask.csproj|solutionrelative:mvcpustoktask\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,63 +90,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcPustokTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\appsettings.json",
+              "RelativeToolTip": "MvcPustokTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T13:56:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcPustokTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:15:31.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "MvcPustokTask\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8BAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T22:02:57.549Z"
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "MvcPustokTask\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:17:05.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Program.cs",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Program.cs",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Program.cs",
-              "RelativeToolTip": "MvcPustokTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MvcPustokTask\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:45:12.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MvcPustokTask\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T11:44:23.439Z"
+              "WhenOpened": "2025-12-17T11:16:08.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "MvcPustokTask\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAwCAAAAAAAAAAAkwBoCAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T11:39:38.108Z"
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "MvcPustokTask\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:16:23.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MvcPustokTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:48:13.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arrials.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Models\\Arrials.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Models\\Arrials.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Models\\Arrials.cs",
+              "RelativeToolTip": "MvcPustokTask\\Models\\Arrials.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:40:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251224121611_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Migrations\\20251224121611_Init.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Migrations\\20251224121611_Init.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Migrations\\20251224121611_Init.cs",
+              "RelativeToolTip": "MvcPustokTask\\Migrations\\20251224121611_Init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:16:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MvcPustokTask\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:16:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Program.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Program.cs",
+              "RelativeToolTip": "MvcPustokTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:45:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcPustokTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T11:38:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MvcPustokTask\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:39:37.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FeatureProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Models\\FeatureProduct.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Models\\FeatureProduct.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Models\\FeatureProduct.cs",
+              "RelativeToolTip": "MvcPustokTask\\Models\\FeatureProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:40:59.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Models\\Product.cs",
+              "RelativeToolTip": "MvcPustokTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:41:41.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MvcPustokTask\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAANIDAAAAAAAAAAAkwN0DAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -126,23 +284,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "MvcPustokTask\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:16:34.721Z"
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "MvcPustokTask\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAwCAAAAAAAAAAAkwBoCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T11:39:38.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcPustokTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T11:44:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "MvcPustokTask\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAABUDAAAAAAAAAAAkwCwDAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -150,76 +320,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MvcPustokTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAEEAAAAAAAAAAAAACgEAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "MvcPustokTask\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8BAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T11:38:56.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T22:02:57.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "MvcPustokTask\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:16:23.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "MvcPustokTask\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:16:08.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Auth\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcPustokTask\\Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\MVCPustok\\MvcPustokTask\\MvcPustokTask\\Views\\Auth\\Index.cshtml",
               "RelativeToolTip": "MvcPustokTask\\Views\\Auth\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-17T11:38:27.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MvcPustokTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:15:31.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "MvcPustokTask\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\Amin\\Desktop\\MvcPustokTask\\MvcPustokTask\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "MvcPustokTask\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:17:05.647Z"
             }
           ]
         }
