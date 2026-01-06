@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcPustokTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305caf95eea72492fc9909e0b1d3e7e43c027023")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ec0ab3051debd373d33c1ffd580a6507a1bd204")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcPustokTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcPustokTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
