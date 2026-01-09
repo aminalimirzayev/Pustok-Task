@@ -1,0 +1,52 @@
+﻿@model List<Product>
+
+<div class="container-fluid">
+    <div class="d-flex justify-content-between mb-4">
+        <h1 class="h3 text-gray-800">Products List</h1>
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    </div>
+    <div class="card shadow mb-4">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Actions</th>
+                            <th>Name / Author</th>
+                            <th>Price</th>
+                            <th>Discount</th>
+                            <th>Image</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                                    <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')">Delete</a>
+                                </td>
+                                <td>
+                                    <strong>@item.Name</strong> <br />
+                                    <small class="text-muted">@item.Author</small>
+                                </td>
+                                <td>
+                                    @if (item.ExPrice > item.Price)
+                                    {
+                                        <del class="text-danger">@item.ExPrice AZN</del> <br />
+                                    }
+                                    <span>@item.Price AZN</span>
+                                </td>
+                                <td>@item.Discount%</td>
+                                <td>
+                                    <img src="~/admin/img/@item.Image" width="60" style="object-fit:cover;" />
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

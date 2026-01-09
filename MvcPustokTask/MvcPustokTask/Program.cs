@@ -1,48 +1,35 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using MvcPustokTask.DAL;
 
-namespace MvcPustokTask
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<AppDbContext>(options =>
 {
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddControllersWithViews();
+    options.UseSqlServer("Server=localhost;Database=APA201PustrokDb;Trusted_Connection=true;Encrypt=false");
+});
 
-            builder.Services.AddDbContext<DAL.AppDbContext>
-            (
-                options =>
-                {
-                    options.UseSqlServer("Server=localhost;Database=APA201PustrokDb;Trusted_Connection=true;Encrypt=false");
-                }
-            );
+var app = builder.Build();
 
-
-
-            var app = builder.Build();
-
-            app.UseStaticFiles();
-            app.MapControllerRoute
-            (
-                name: "admin",
-                pattern: "{controller=Home}/{action=Index}/{id?}"
-            );
-
-
-
-
-
-
-
-            app.UseStaticFiles();
-            app.MapControllerRoute
-            (
-                name: "default",
-                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
-            );
-
-
-            app.Run();
-        }
-    }
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
 }
+
+app.UseStaticFiles();
+app.UseRouting();
+app.UseAuthorization();
+
+// Area marşrutu - Burada controller=Category etdim ki, Admin yazanda birbaşa ora getsin
+app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+);
+
+// Default marşrut
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}"
+);
+
+app.Run();

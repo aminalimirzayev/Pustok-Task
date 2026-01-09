@@ -1,0 +1,40 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="container-fluid">
+    <h1 class="h3 mb-4 text-gray-800">Update Category</h1>
+
+    <div class="card shadow mb-4">
+        <div class="card-body">
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name">Category Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter name">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Current Image</label>
+                    <div class="mb-2">
+                        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                        {
+                            <img src="~/admin/img/@Model.ImageUrl" width="150" style="border-radius:10px" />
+                        }
+                        else
+                        {
+                            <span class="text-muted">No image uploaded</span>
+                        }
+                    </div>
+                    <label asp-for="ImageFile">Change Image (Optional)</label>
+                    <input asp-for="ImageFile" class="form-control-file" accept="image/*">
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>

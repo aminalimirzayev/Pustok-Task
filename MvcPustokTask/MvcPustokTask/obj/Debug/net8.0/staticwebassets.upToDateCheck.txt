@@ -1,5 +1,17 @@
 wwwroot\admin\css\sb-admin-2.css
 wwwroot\admin\css\sb-admin-2.min.css
+wwwroot\admin\img\4f2c9196-55fa-42a4-bcd8-658ea3c89645_image.png
+wwwroot\admin\img\87ccd558-bde7-45ba-bfa0-d1c66e22748f_image.png
+wwwroot\admin\img\99a58f47-c530-4a17-bd04-9554a084bb58_image.png
+wwwroot\admin\img\a4aa6586-8236-4de9-9253-e2300cd7063b_image.png
+wwwroot\admin\img\c985770e-0f10-48e9-a8f3-796a4711e1a2_image.png
+wwwroot\admin\img\dbd1d889-7f61-4a10-b328-b9def671aa2a_image.png
+wwwroot\admin\img\e471de28-37b9-498e-958c-12c5a3d8c67c_image.png
+wwwroot\admin\img\ea7a5cfa-1457-4371-8278-54725709d45d_image.png
+wwwroot\admin\img\f4340b40-dce8-4384-af28-4c5adf6dba89_image.png
+wwwroot\admin\img\f4af501b-8828-4627-87f1-4b606e362cbe_image.png
+wwwroot\admin\img\f73ce6ac-cbd1-4fa9-aaba-7f307063f88b_image.png
+wwwroot\admin\img\fbbfeaf4-eb6f-43d5-9926-e8c761a2c067_image.png
 wwwroot\admin\img\undraw_posting_photo.svg
 wwwroot\admin\img\undraw_profile.svg
 wwwroot\admin\img\undraw_profile_1.svg

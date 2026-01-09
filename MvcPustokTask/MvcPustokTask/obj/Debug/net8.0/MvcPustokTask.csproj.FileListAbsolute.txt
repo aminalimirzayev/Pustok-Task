@@ -31,8 +31,8 @@ C:\Users\Amin\Desktop\MvcPustokTask\MvcPustokTask\obj\Debug\net8.0\MvcPustokTask
 C:\Users\Amin\Desktop\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\MvcPustokTask.staticwebassets.runtime.json
 C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\appsettings.json
-C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\MvcPustokTask.staticwebassets.endpoints.json
 C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\MvcPustokTask.staticwebassets.runtime.json
+C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\MvcPustokTask.staticwebassets.endpoints.json
 C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\MvcPustokTask.exe
 C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\MvcPustokTask.deps.json
 C:\Users\Amin\Desktop\MVCPustok\MvcPustokTask\MvcPustokTask\bin\Debug\net8.0\MvcPustokTask.runtimeconfig.json
